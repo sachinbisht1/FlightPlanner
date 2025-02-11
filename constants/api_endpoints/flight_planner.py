@@ -1,0 +1,5 @@
+GET_DATA = "/get_coordinate_data"
+UPLOAD_PATH_FILE = "/upload_wpml"
+GENERATE_WPML_DATA = "/wpml_data"
+FLIGHT_PLANNER_ROUTER = "/flight_router"
+UPLOAD_IMAGE = "/upload_image"
